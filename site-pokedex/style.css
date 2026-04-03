@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.img-pokemon {
+    background-color: #ffffff;
+    width: 200px;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px #0000002c;
+}
+
+footer {
+    background-color: black;
+    
+}
+
+footer p{
+    color: white;
+    text-align: center;
+    padding: 50px;
+    margin: 0px;
+}
+
+footer img {
+    padding-top: 20px;
+    width: 200px;
+    margin: auto;
+    display: block;
+}
